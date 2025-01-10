@@ -1,3 +1,5 @@
+//implementation of circular queue and its operation
+
 #include<stdio.h>
 #include<stdlib.h>
 
