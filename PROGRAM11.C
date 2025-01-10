@@ -1,3 +1,5 @@
+//prins algorithm
+
 #include<stdio.h>
 #define INF 999
 void main()
