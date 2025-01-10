@@ -1,4 +1,4 @@
-implementation of queue and perform operation
+//implementation of queue and perform operation
 
 #include <stdio.h>
 #include <stdlib.h>
