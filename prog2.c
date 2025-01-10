@@ -1,3 +1,4 @@
+//add two number with function
 #include<stdio.h>
 void main ()
 {
