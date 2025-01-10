@@ -1,3 +1,5 @@
+//single linked list and perform opertion
+
 #include<stdio.h>  
 #include<stdlib.h>  
 struct node   
