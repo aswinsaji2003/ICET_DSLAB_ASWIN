@@ -1,3 +1,5 @@
+implementation of queue and perform operation
+
 #include <stdio.h>
 #include <stdlib.h>
 #include<stdbool.h>
